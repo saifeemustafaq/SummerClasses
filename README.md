@@ -23,3 +23,10 @@
 | 49783   | ~Introduction to Cloud Computing~           | A6  | W    | 07:30PM | 09:20PM | Fang, Fang     | ~NOTA taken~             |
 
 ---
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/272dc9d1-066c-4122-abfa-3a555f4206ce" />
+
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/ce44e41f-8548-4181-ab5a-0ca772ec6a6f" />
+
+https://claude.ai/chat/586b2059-32b1-4c2a-930f-53cc18d49b2a
+
